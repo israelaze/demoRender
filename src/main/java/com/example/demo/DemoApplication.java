@@ -13,7 +13,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String home() {
-		return "Hello World! testando";
+		return "Deploy";
 	}
 	
 	public static void main(String[] args) {
